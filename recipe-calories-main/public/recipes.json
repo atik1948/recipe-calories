@@ -1,0 +1,86 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Grilled Chicken Salad",
+    "recipe_image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1",
+    "short_description": "Grilled chicken with colorful fresh veggies.",
+    "ingredients": [
+      "200 g chicken breast",
+      "50 g lettuce",
+      "30 g tomato",
+      "20 ml olive oil"
+    ],
+    "preparing_time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Fresh Vegetable Pasta",
+    "recipe_image": "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&w=1200&q=80",
+    "short_description": "Delicious pasta mixed with fresh vegetables.",
+    "ingredients": [
+      "200 g pasta",
+      "50 g bell pepper",
+      "50 g onion",
+      "100 ml tomato sauce"
+    ],
+    "preparing_time": "25 min",
+    "calories": "410 calories"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Beef Burger",
+    "recipe_image": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+    "short_description": "Juicy beef burger with cheese and lettuce.",
+    "ingredients": [
+      "150 g beef patty",
+      "1 burger bun",
+      "1 cheese slice",
+      "20 g lettuce"
+    ],
+    "preparing_time": "20 min",
+    "calories": "550 calories"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Fruit Smoothie",
+    "recipe_image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=1200&q=80",
+    "short_description": "Refreshing smoothie made with fresh fruits.",
+    "ingredients": [
+      "1 banana",
+      "100 g strawberry",
+      "200 ml milk",
+      "1 tsp honey"
+    ],
+    "preparing_time": "10 min",
+    "calories": "220 calories"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Chicken Fried Rice",
+    "recipe_image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b",
+    "short_description": "Classic fried rice with chicken and vegetables.",
+    "ingredients": [
+      "200 g cooked rice",
+      "100 g chicken",
+      "50 g mixed vegetables",
+      "20 ml soy sauce"
+    ],
+    "preparing_time": "35 min",
+    "calories": "480 calories"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Vegetable Soup",
+    "recipe_image": "https://images.unsplash.com/photo-1547592166-23ac45744acd",
+    "short_description": "Warm, healthy, comforting homemade vegetable soup.",
+    "ingredients": [
+      "100 g carrot",
+      "100 g potato",
+      "50 g beans",
+      "500 ml water"
+    ],
+    "preparing_time": "40 min",
+    "calories": "180 calories"
+  }
+]
